@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hw20-react-profolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hw20-react-profolio/static/js/main.bdb2b3fb.chunk.js",
+    "main.js.map": "/hw20-react-profolio/static/js/main.bdb2b3fb.chunk.js.map",
+    "runtime-main.js": "/hw20-react-profolio/static/js/runtime-main.24f0c8bd.js",
+    "runtime-main.js.map": "/hw20-react-profolio/static/js/runtime-main.24f0c8bd.js.map",
+    "static/js/2.607668ab.chunk.js": "/hw20-react-profolio/static/js/2.607668ab.chunk.js",
+    "static/js/2.607668ab.chunk.js.map": "/hw20-react-profolio/static/js/2.607668ab.chunk.js.map",
+    "index.html": "/hw20-react-profolio/index.html",
+    "precache-manifest.2fbb4c0a599be61447aec763c68c5e6e.js": "/hw20-react-profolio/precache-manifest.2fbb4c0a599be61447aec763c68c5e6e.js",
+    "service-worker.js": "/hw20-react-profolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hw20-react-profolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.607668ab.chunk.js.LICENSE.txt": "/hw20-react-profolio/static/js/2.607668ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hw20-react-profolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f0c8bd.js",
+    "static/js/2.607668ab.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bdb2b3fb.chunk.js"
+  ]
+}
